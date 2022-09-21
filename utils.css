@@ -1,0 +1,17 @@
+.padding-left-0{
+    padding-left: 0rem;
+}
+
+.height-60vh{
+    height: 60vh;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.flex{
+    display: flex;
+}
+
+.bg-color{
+    background-color:#b5c0c8;
+}
