@@ -15,3 +15,15 @@
 .bg-color{
     background-color:#b5c0c8;
 }
+
+.text-center{
+    text-items: center;
+}
+
+.width-60{
+    width: 60%;
+}
+
+.margin-left-right-15{
+    margin: 0 15px;
+}
