@@ -7,25 +7,36 @@
   margin-left: 20px;
 }
 
-.nav2 {
+
+.back-bbt{
+  padding-left: 1rem;
+  padding-right: 1rem;
+ 
+}
+.nav3{
   background-color: rgb(216 217 219);
-  ;
-  text-align: center;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
+  padding-top: .1rem;
+  padding-bottom: .1rem;
+  display: flex;
 }
 
-.nav2 p {
-  font-size: 230%;
+.nav3 button{
+  margin-top: 6px;
+}
+
+.nav3 p {
+  font-size: 200%;
   font-weight: 700;
   font-style: italic;
   color: rgb(37, 34, 34);
-
+  margin-left: 35rem;
+  margin-top: 5px;
 }
 
 .nav-link {
   color: rgb(247 239 239 / 55%);
 }
+
 
 .btn {
   color: rgb(247 239 239 / 55%);
@@ -35,7 +46,12 @@
 .hover:hover {
   color: #198754;
 }
-
+.nav5{
+  background-color: rgb(121, 127, 137);
+  padding: 8px 0;
+  display: flex;
+  justify-content: center;
+}
 
 .footer1 {
   background-color: black;
@@ -153,6 +169,11 @@ hr {
   border: 0;
   border-bottom: 1px solid #ccc;
   margin: 20px auto;
+}
+
+.card:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: 0.35s ease-in;
 }
 
 .copyright {
@@ -304,5 +325,6 @@ hr {
           padding-right: 20px;
           padding-left: 40px;
       }
-      }
+    }
+  
      
